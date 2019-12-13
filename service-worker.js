@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AsTAVelo-AdminInterface/precache-manifest.0c0f82e676c72276a7c953607feb717d.js"
+  "/AsTAVelo-AdminInterface/precache-manifest.27c67a6ef8313234d2d471c48e462034.js"
 );
 
 self.addEventListener('message', (event) => {
