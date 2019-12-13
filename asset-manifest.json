@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AsTAVelo-AdminInterface/static/css/main.da005ed0.chunk.css",
+    "main.js": "/AsTAVelo-AdminInterface/static/js/main.2e97d9f5.chunk.js",
+    "main.js.map": "/AsTAVelo-AdminInterface/static/js/main.2e97d9f5.chunk.js.map",
+    "runtime~main.js": "/AsTAVelo-AdminInterface/static/js/runtime~main.276d1a17.js",
+    "runtime~main.js.map": "/AsTAVelo-AdminInterface/static/js/runtime~main.276d1a17.js.map",
+    "static/css/2.25b83785.chunk.css": "/AsTAVelo-AdminInterface/static/css/2.25b83785.chunk.css",
+    "static/js/2.6b109b56.chunk.js": "/AsTAVelo-AdminInterface/static/js/2.6b109b56.chunk.js",
+    "static/js/2.6b109b56.chunk.js.map": "/AsTAVelo-AdminInterface/static/js/2.6b109b56.chunk.js.map",
+    "index.html": "/AsTAVelo-AdminInterface/index.html",
+    "precache-manifest.0c0f82e676c72276a7c953607feb717d.js": "/AsTAVelo-AdminInterface/precache-manifest.0c0f82e676c72276a7c953607feb717d.js",
+    "service-worker.js": "/AsTAVelo-AdminInterface/service-worker.js",
+    "static/css/2.25b83785.chunk.css.map": "/AsTAVelo-AdminInterface/static/css/2.25b83785.chunk.css.map",
+    "static/css/main.da005ed0.chunk.css.map": "/AsTAVelo-AdminInterface/static/css/main.da005ed0.chunk.css.map",
+    "static/media/admin.839eab34.svg": "/AsTAVelo-AdminInterface/static/media/admin.839eab34.svg"
+  }
+}
